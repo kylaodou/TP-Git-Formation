@@ -1,3 +1,3 @@
 function (params){
-  // commentaire conflit de modification
+  // commentaire conflit ok
 }
