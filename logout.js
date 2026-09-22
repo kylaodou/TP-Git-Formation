@@ -1,3 +1,3 @@
 function (params){
-  // commentaires
+  // commentaire conflit 
 }
